@@ -1,0 +1,9 @@
+/dttvm
+/dttvm_cv
+/dttvm_xray
+*.o
+dopmap_*.dat
+trail_*.dat
+__pycache__/
+.venv/
+.DS_Store
